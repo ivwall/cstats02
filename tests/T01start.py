@@ -1,6 +1,6 @@
 import unittest
 
-from cstats.app import wud
+from app import wud
 
 class TestOne(unittest.TestCase):
 
